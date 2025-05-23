@@ -130,7 +130,7 @@ During my Transcriptomic and RNA-seq project, I utilised R and Bash/Terminal, I 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<img src="Portfolio/NGS-Bean-results.png" >
+<img src="NGS-Bean-results.png" >
 
 </div>
 
@@ -178,9 +178,9 @@ During the **Computational Biology module**, I integrated **Transcriptomic** and
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
 <img src="Portfolio/SGCCA.png" width="45%" style="margin:10px;">
-<img src="Portfolio/Factor_plot_MOFA.png" width="45%" style="margin:10px;">
-<img src="Portfolio/MOFA-before_FR.png" width="45%" style="margin:10px;">
-<img src="Portfolio/MOFA-after_FR.png" width="45%" style="margin:10px;">
+<img src="Factor_plot_MOFA.png" width="45%" style="margin:10px;">
+<img src="MOFA-before_FR.png" width="45%" style="margin:10px;">
+<img src="MOFA-after_FR.png" width="45%" style="margin:10px;">
 
 </div>
 
