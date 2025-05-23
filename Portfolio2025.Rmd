@@ -130,7 +130,7 @@ During my Transcriptomic and RNA-seq project, I utilised R and Bash/Terminal, I 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<img src="NGS-Bean-results.png" >
+<img src="Portfolio/NGS-Bean-results.png" >
 
 </div>
 
