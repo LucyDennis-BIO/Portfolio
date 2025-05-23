@@ -95,10 +95,10 @@ I achieved a mark of **74.5%**, which was over 10% above the module average.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<img src="Portfolio/Picture1.png" width="45%" style="margin:10px;">
-<img src="Portfolio/Picture2.png" width="45%" style="margin:10px;">
-<img src="Portfolio/Picture3.png" width="45%" style="margin:10px;">
-<img src="Portfolio/Picture4.png" width="45%" style="margin:10px;">
+<img src="Picture1.png" width="45%" style="margin:10px;">
+<img src="Picture2.png" width="45%" style="margin:10px;">
+<img src="Picture3.png" width="45%" style="margin:10px;">
+<img src="Picture4.png" width="45%" style="margin:10px;">
 
 </div>
 
@@ -116,7 +116,7 @@ During my Transcriptomic and RNA-seq project, I utilised R and Bash/Terminal, I 
 
 - **Trimming and Filtering: Trimmomatic** removed low-quality reads and adapter contamination.  
 
-- **Alignment**:Aligned reads to a reference genome using **hisat2**.Processed files with **Samtools**.
+- **Alignment**: Aligned reads to a reference genome using **hisat2**.Processed files with **Samtools**.
 
 - **Gene Expression Analysis**: Generated a count matrix with **HTSeq-count**,Analysed data in **R**.  
 
@@ -130,7 +130,7 @@ During my Transcriptomic and RNA-seq project, I utilised R and Bash/Terminal, I 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<img src="Portfolio/NGS-Bean-results.png" >
+<img src="NGS-Bean-results.png" >
 
 </div>
 
@@ -151,10 +151,10 @@ During this project, I worked with FPKM gene expression data to evaluate and com
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<img src="Portfolio/K-means.png" width="45%" style="margin:10px;">
-<img src="Portfolio/HC.png" width="45%" style="margin:10px;">
-<img src="Portfolio/ConfusionMatrix.png" width="45%" style="margin:10px;">
-<img src="Portfolio/ROC.png" width="45%" style="margin:10px;">
+<img src="K-means.png" width="45%" style="margin:10px;">
+<img src="HC.png" width="45%" style="margin:10px;">
+<img src="ConfusionMatrix.png" width="45%" style="margin:10px;">
+<img src="ROC.png" width="45%" style="margin:10px;">
 
 </div>
 
@@ -177,7 +177,7 @@ During the **Computational Biology module**, I integrated **Transcriptomic** and
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<img src="Portfolio/SGCCA.png" width="45%" style="margin:10px;">
+<img src="SGCCA.png" width="45%" style="margin:10px;">
 <img src="Factor_plot_MOFA.png" width="45%" style="margin:10px;">
 <img src="MOFA-before_FR.png" width="45%" style="margin:10px;">
 <img src="MOFA-after_FR.png" width="45%" style="margin:10px;">
